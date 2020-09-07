@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Curs
+comment1.params=idd\ denumire\ prr
+comment1.target=Curs(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=int\ getPret()
+comment4.params=
+comment4.target=java.lang.String\ getDen()
+comment5.params=pr
+comment5.target=void\ setPret(int)
+comment6.params=num
+comment6.target=void\ setDen(java.lang.String)
+comment7.params=idd
+comment7.target=void\ setId(int)
+numComments=8

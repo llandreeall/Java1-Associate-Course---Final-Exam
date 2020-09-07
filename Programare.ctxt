@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Programare
+comment1.params=idd\ tipp\ denumire\ pr
+comment1.target=Programare(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTip()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

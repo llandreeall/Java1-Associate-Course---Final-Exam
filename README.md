@@ -19,7 +19,7 @@ This app receives the following commands from the console and operates with a si
   <br>
 Observations: <br>
 1. The classes will be properly encapsulated and the whole architecture of the classes will be done right.<br>
-2. A Singleton Pattern will be used when necesarry. <br>
+2. A Singleton Pattern will be used when necessary. <br>
 3. Will be used streams and lambda expressions anywhere possible.<br>
 Time available: 2h
   
